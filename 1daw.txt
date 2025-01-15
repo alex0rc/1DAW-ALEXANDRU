@@ -1,0 +1,2 @@
+"Contenido inicial del archivo 1daw.txt" 
+"A¤adiendo m s contenido al archivo 1daw.txt..." 
